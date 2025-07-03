@@ -8,7 +8,6 @@ A professional React-based tool to rename, preview, and organize Amazon product 
 
 🔗 [Click here to use the live app](https://amazon-listing.vercel.app/)
 
-> Replace the above link with your actual GitHub Pages or deployment URL.
 
 ---
 
